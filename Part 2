@@ -1,0 +1,50 @@
+# Arithmetic Operators
+Python supports basic arithmethic operations like addition, subtraction, multiplication, division and more
+# Common Operators:
+1. + (Addition)
+2. - (Subtraction)
+3. * (Multiplication)
+4. / (Division)
+5. // (Floor Division)
+6. % (Modulus)
+7. **(Exponentiation)
+
+# Arithmetic Operators with Examples:
+1. + (Addition)
+ ex:  a=100
+      b=50
+      print(a+b) # Output: 150
+2. - (Subtraction)
+ ex: a=120
+    b=30
+    print(a-b) # Output: 90
+3. * (Multiplication)
+ ex: t=21
+     u=6
+     print(t*u) # Output: 126
+4. / (Division)
+ ex: a=50
+     b=5
+     print(a/b) # Output: 10.0
+ ex: t=108
+     u=5
+     print(t/u) # Output: 21.6
+5. // (Floor Division)
+ ex: t=55
+     u=6
+     print(t//u) # Output: 9
+6. % (Modulus)
+ ex: t=85
+     u=8
+    print(t%u) # Output: 5 (Remainder)
+--- 8)85(1
+      8
+     ______
+      05
+     _______
+        5 ------ this is Output
+7. **(Exponentiation)
+ ex: t=25
+     u=4
+     print(t**u) Output: 390625
+----(25*25*25*25 = 390625)
