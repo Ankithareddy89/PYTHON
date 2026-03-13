@@ -1,0 +1,13 @@
+# Float
+Float is a decimal and real numbers
+ex: a=7.8
+    print(a)
+    print(type(a)) # Output: 7.8
+                             <class 'float'>
+a=5.5
+b=2.1
+print(a+b) # output: 7.6
+
+a=8.0
+b=3.5
+print(a-b) #Output: 4.5
